@@ -30,7 +30,7 @@ const prefill = (size, value) => {
     return [];
   }
   const n = parseInt(size, 10);
-  if (isNaN(n) || (Number(size) === size && size % 1 !== 0) || n < 0) {
+  if (Number.isNaN(n) || (Number(size) === size && size % 1 !== 0) || n < 0) {
     throw new TypeError(`${size} is invalid`);
   }
   return new Array(n).fill(value);
