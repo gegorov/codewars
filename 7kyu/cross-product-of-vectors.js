@@ -18,13 +18,9 @@ const crossProduct = (a, b) => {
   if (!checkVector(a) || !checkVector(b)) {
     throw 'Arguments are not 3D vectors!'; // eslint-disable-line
   }
-  const result = [
-    a[1] * b[2] - b[1] * a[2],
-    a[2] * b[0] - b[2] * a[0],
-    a[0] * b[1] - b[0] * a[1],
-  ];
-
-  return result;
+  const [a0, a1, a2] = a;
+  const [b0, b1, b2] = b;
+  return [a1 * b2 - b1 * a2, a2 * b0 - b2 * a0, a0 * b1 - b0 * a1];
 };
 
 console.log(crossProduct([1, 0, 0], [0, 1, 0]));
