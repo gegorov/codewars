@@ -18,7 +18,7 @@ my solutions of codewar katas
  15. DONE http://www.codewars.com/kata/a-function-within-a-function
  16. DONE http://www.codewars.com/kata/can-you-keep-a-secret
  17. @TO_DO: http://www.codewars.com/kata/using-closures-to-share-class-state
- 18. http://www.codewars.com/kata/a-chain-adding-function
+ 18. DONE http://www.codewars.com/kata/a-chain-adding-function
  19. http://www.codewars.com/kata/function-cache
  20. http://www.codewars.com/kata/function-composition
  21. http://www.codewars.com/kata/function-composition-1
