@@ -22,7 +22,7 @@ my solutions of codewar katas
  19. DONE http://www.codewars.com/kata/function-cache
  20. DONE http://www.codewars.com/kata/function-composition
  21. DONE http://www.codewars.com/kata/function-composition-1
- 22. http://www.codewars.com/kata/stringing-me-along
+ 22. DONE http://www.codewars.com/kata/stringing-me-along
  23. http://www.codewars.com/kata/i-spy
  24. http://www.codewars.com/kata/calculating-with-functions
  25. http://www.codewars.com/kata/santaclausable-interface
