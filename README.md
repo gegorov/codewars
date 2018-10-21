@@ -19,8 +19,8 @@ my solutions of codewar katas
  16. DONE http://www.codewars.com/kata/can-you-keep-a-secret
  17. @TO_DO: http://www.codewars.com/kata/using-closures-to-share-class-state
  18. DONE http://www.codewars.com/kata/a-chain-adding-function
- 19. http://www.codewars.com/kata/function-cache
- 20. http://www.codewars.com/kata/function-composition
+ 19. DONE http://www.codewars.com/kata/function-cache
+ 20. Done http://www.codewars.com/kata/function-composition
  21. http://www.codewars.com/kata/function-composition-1
  22. http://www.codewars.com/kata/stringing-me-along
  23. http://www.codewars.com/kata/i-spy
