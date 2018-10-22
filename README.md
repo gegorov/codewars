@@ -32,4 +32,4 @@ my solutions of codewar katas
  29. DONE http://www.codewars.com/kata/replicate-new
  30. http://www.codewars.com/kata/sum-of-digits-slash-digital-root/
  31. DONE http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance
- 32. http://www.codewars.com/kata/fun-with-es6-classes-number-3-cuboids-cubes-and-getters
+ 32. DONE http://www.codewars.com/kata/fun-with-es6-classes-number-3-cuboids-cubes-and-getters
