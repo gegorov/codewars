@@ -33,3 +33,9 @@ my solutions of codewar katas
  30. DONE http://www.codewars.com/kata/sum-of-digits-slash-digital-root/
  31. DONE http://www.codewars.com/kata/fun-with-es6-classes-number-2-animals-and-inheritance
  32. DONE http://www.codewars.com/kata/fun-with-es6-classes-number-3-cuboids-cubes-and-getters
+
+ OPTIONAL
+ 33. http://www.codewars.com/kata/lazy-evaluation
+ 34. http://www.codewars.com/kata/tail-recursion-with-trampoline
+ 35. http://www.codewars.com/kata/functional-sql
+ 36. http://www.codewars.com/kata/can-you-get-the-loop
