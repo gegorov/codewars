@@ -23,11 +23,11 @@ my solutions of codewar katas
  20. DONE http://www.codewars.com/kata/function-composition
  21. DONE http://www.codewars.com/kata/function-composition-1
  22. DONE http://www.codewars.com/kata/stringing-me-along
- 23. http://www.codewars.com/kata/i-spy
+ 23. @TO_DO: http://www.codewars.com/kata/i-spy
  24. DONE http://www.codewars.com/kata/calculating-with-functions
  25. DONE http://www.codewars.com/kata/santaclausable-interface
  26. DONE http://www.codewars.com/kata/new-with-apply
- 27. http://www.codewars.com/kata/extract-nested-object-reference
+ 27. @TO_DO: http://www.codewars.com/kata/extract-nested-object-reference
  28. DONE http://www.codewars.com/kata/array-helpers
  29. DONE http://www.codewars.com/kata/replicate-new
  30. DONE http://www.codewars.com/kata/sum-of-digits-slash-digital-root/
